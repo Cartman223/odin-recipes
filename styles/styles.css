@@ -1,0 +1,46 @@
+* {
+    background-color:rgba(89,27,27);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    border: 10px solid rgb(26,48,34);
+}
+
+h1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 28px;
+    color: rgb(196,91,26);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.list {
+    list-style: none;
+    margin-left: 40px;
+}
+
+.recipe-link {
+    text-decoration: none;
+    color: rgb(143, 211, 141);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* collor pallete
+Hex	RGB
+#f5f2ea	(245,242,234) white
+#d3b68d	(211,182,141) beige
+#c45b1a	(196,91,26) orange
+#591b1b	(89,27,27) wine
+#1a3022	(26,48,34) green */
