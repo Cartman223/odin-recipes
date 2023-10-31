@@ -3,6 +3,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 10px;
     margin-right: 60px;
+    box-sizing: border-box;
 }
 
 body {
