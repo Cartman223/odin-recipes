@@ -6,6 +6,8 @@
 
 body {
     border: 10px solid rgb(26,48,34);
+    margin: 16px 16px 250px;
+    padding-bottom: 250px;
 }
 
 h1 {
@@ -25,6 +27,8 @@ img {
     list-style: none;
     margin-left: 40px;
     margin-bottom: 10px;
+    text-align: center;
+    padding-top: 32px;
 }
 
 .list :hover {

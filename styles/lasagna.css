@@ -17,6 +17,13 @@ h1 {
     color: rgb(196,91,26);
     text-align: center;
     text-transform: uppercase;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
 
 h2,
@@ -30,4 +37,10 @@ h3 { font-family: Verdana, Tahoma, sans-serif;
 .link {
     text-decoration: none;
     color: rgb(143, 211, 141);
+    text-align: center;
+    display: block;
+}
+
+.link:hover{
+    color:brown
 }
